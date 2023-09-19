@@ -1,2 +1,2 @@
 # URL_extractor
- Pandas datafram filtering by various criteria to get a filtered crawl dataset
+ Pandas dataframe filtering by various criteria to get a filtered crawl dataset
